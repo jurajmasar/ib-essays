@@ -8,4 +8,4 @@ This is a collection of essays I have written during my high school studies at G
 License
 -------
 
-(c) Copyright Juraj Masar <mail at jurajmasar.com>, All rights reserved.
+(c) Copyright Juraj Masar (mail at jurajmasar.com), All rights reserved.
