@@ -5,4 +5,7 @@ This is a collection of essays I have written during my high school at Gymnazium
 
 > Disclaimer: Use at own risk.
 
-(c) Copyright Juraj Masar, all rights reserved.
+License
+-------
+
+(c) Copyright Juraj Masar <mail at jurajmasar.com>, All rights reserved.
